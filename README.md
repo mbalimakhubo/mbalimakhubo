@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-I am currently working on a game called Catch the Object where I used HTML,CSS and JavaScript where a player uses buttons on a computer to move a basket to catch the ball and the score increases as the player catches the balls and the speed gradually increases with intensity through the game. 
+- I am currently learning JavaScript, React, Vue and Angular.
+-You can reach me on [LinkedIn](https://www.linkedin.com/in/mbali-makhubo98/)  as well as on email [Mbali Makhubo](mailto:mbali.makhubo25@gmail.com)
+
+-My pronouns are she/her
