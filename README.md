@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 👋 Hi, I'm Mbali Makhubo!  
 
-I am an Information Technology graduate** and an aspiring Data Analyst/Data Scientist with a strong passion for data-driven insights, software development, and business intelligence.  
+I am an Information Technology graduate and an aspiring Data Analyst/Data Scientist with a strong passion for data-driven insights, software development, and business intelligence.  
 
 ### 🚀 About Me:  
 🔭 I’m currently working on building projects that combine **data analytics and software development, including interactive web applications and insightful data visualizations.  
